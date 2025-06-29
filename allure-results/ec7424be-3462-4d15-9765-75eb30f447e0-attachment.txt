@@ -1,0 +1,482 @@
+[
+  {
+    name: 'ad-id',
+    value: 'A9zZE23-fki3m6ZIX-zlLj8',
+    domain: '.amazon-adsystem.com',
+    path: '/',
+    expires: 1767258807,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'ad-privacy',
+    value: '0',
+    domain: '.amazon-adsystem.com',
+    path: '/',
+    expires: 1785575607,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'uids',
+    value: 'eyJ0ZW1wVUlEcyI6eyJhbWF6b24iOnsidWlkIjoiMWhfWS1CNVFSb1NoVng1Z29JN1hOZyIsImV4cGlyZXMiOiIyMDI1LTA3LTExVDA5OjEzOjI4LjI4OTA1ODg4MloifX19',
+    domain: '.pbs.yahoo.com',
+    path: '/',
+    expires: 1766740408,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'pid',
+    value: '2177424819242052084',
+    domain: '.smartadserver.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'TestIfCookieP',
+    value: 'ok',
+    domain: '.smartadserver.com',
+    path: '/',
+    expires: 1785143608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'csync',
+    value: '144:2DZ6r1MASUGXdHhH8sPN2g',
+    domain: '.smartadserver.com',
+    path: '/',
+    expires: 1753607608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'audit_p',
+    value: '1|teFeK0p9yuP+biyhIpKh+CVTYcjSWG2R5y9x/siwu5DzS7KwHLyG/0F57sLZDLhO3qD0tB6qtGryUhTWCqUS/K1sEWZomT4FxD6eoMVMhhHyNyPmGPhRES0uaaZF4WBgjEcxKo6WJqSBq1u0XziNGbnWrNvV0HsCW3xQJuoyyIXGGndVVHiYdEPjcvvG7GGn0A+VO7RH1E0=',
+    domain: '.rubiconproject.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'khaos',
+    value: 'MCELHE9Z-8-8XCS',
+    domain: '.rubiconproject.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'khaos_p',
+    value: 'MCELHE9Z-8-8XCS',
+    domain: '.rubiconproject.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'audit',
+    value: '1|teFeK0p9yuP+biyhIpKh+CVTYcjSWG2R5y9x/siwu5DzS7KwHLyG/0F57sLZDLhO3qD0tB6qtGryUhTWCqUS/K1sEWZomT4FxD6eoMVMhhHyNyPmGPhRES0uaaZF4WBgjEcxKo6WJqSBq1u0XziNGbnWrNvV0HsCW3xQJuoyyIXGGndVVHiYdEPjcvvG7GGn0A+VO7RH1E0=',
+    domain: '.rubiconproject.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'cnx_userId',
+    value: '2-94a704d154d040b5a4bf8bdf761b958c',
+    domain: '.connatix.com',
+    path: '/',
+    expires: 1753607608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'IDE',
+    value: 'AHWqTUnoWJbdmhKdvpk_XBeqSWElFxDKJTUlY6N8Sw5HRN2ku2hb3h__RceYne4KZLw',
+    domain: '.doubleclick.net',
+    path: '/',
+    expires: 1785575608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'test_cookie',
+    value: 'CheckForPermission',
+    domain: '.doubleclick.net',
+    path: '/',
+    expires: 1751016508,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'ndat',
+    value: 'CppECmheYLiivAAZ7btpAg==',
+    domain: '.ninthdecimal.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'i',
+    value: '974ae3c3-14c4-4aa6-8869-d2ba8b1a8f67|1751015608',
+    domain: '.openx.net',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'KRTBCOOKIE_290',
+    value: '23219-vz-k_g6RRAyLCWvGKAKTqw&KRTB&23261-vz-k_g6RRAyLCWvGKAKTqw&KRTB&23561-vz-k_g6RRAyLCWvGKAKTqw&KRTB&23647-vz-k_g6RRAyLCWvGKAKTqw',
+    domain: '.pubmatic.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'PugT',
+    value: '1751015608',
+    domain: '.pubmatic.com',
+    path: '/',
+    expires: 1753607608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'dax_listenerid',
+    value: '508E5929469B013AF90BB990B6D65B4C',
+    domain: '.thisisdax.com',
+    path: '/',
+    expires: 1782119608,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'ktcid',
+    value: '40db5e37-52eb-0b3c-5cc7-92991226da8d',
+    domain: '.kargo.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'CMPS',
+    value: '5397',
+    domain: '.casalemedia.com',
+    path: '/',
+    expires: 1758791607,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'CMID',
+    value: 'aF5gtxdaRFgAOcSxCBSOAgAA',
+    domain: '.casalemedia.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'CMPRO',
+    value: '5397',
+    domain: '.casalemedia.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'tuuid',
+    value: '9a4f183a-c2ae-46b4-8ea2-10fc6d5f5872',
+    domain: '.360yield.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'tuuid_lu',
+    value: '1751015608',
+    domain: '.360yield.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'um',
+    value: '!416,lEO5mx0YGXY.zGmHOoqevjskarF-J9WET8nclYL4BgYDJiRY2W5O4OoKmeWRjiT2TE.2vQ,1758791608',
+    domain: '.360yield.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'umeh',
+    value: '!416,0,1813223608,-1',
+    domain: '.360yield.com',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'C',
+    value: '1',
+    domain: '.adform.net',
+    path: '/',
+    expires: 1753607608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'uid',
+    value: '713189267577828025',
+    domain: '.adform.net',
+    path: '/',
+    expires: 1756199608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 't_gid',
+    value: 'e49623c1-33c7-4f9a-9330-54b11675d8b8-tuctf57e638',
+    domain: '.taboola.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 't_pt_gid',
+    value: 'e49623c1-33c7-4f9a-9330-54b11675d8b8-tuctf57e638',
+    domain: '.taboola.com',
+    path: '/',
+    expires: 1782551608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'pt',
+    value: 'v2:cbbd1925bc7676c6f2f235a0277687d63a018508bdd82bab8eb76d2a30b0f628|c27b115cf0443b8cc18d3b18cc19a568817b27221819d9cf909740dc9e50dede',
+    domain: '.ispot.tv',
+    path: '/',
+    expires: 1785575608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'viewer_token',
+    value: 'dc209b99-e77b-4d69-adf8-41d5395944b0',
+    domain: '.csync.loopme.me',
+    path: '/',
+    expires: 1758791608,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'session-id',
+    value: '140-7491717-3980067',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551603,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'session-id-time',
+    value: '2082787201l',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551603,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'i18n-prefs',
+    value: 'USD',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551603,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'lc-main',
+    value: 'en_US',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551603,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'sp-cdn',
+    value: '"L5Z9:IN"',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551603,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'skin',
+    value: 'noskin',
+    domain: '.amazon.com',
+    path: '/',
+    expires: -1,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'csm-hit',
+    value: 'tb:s-ATBZF19ACZXQ2P9RX4YG|1751015603671&t:1751015604866&adb:adblk_no',
+    domain: 'www.amazon.com',
+    path: '/',
+    expires: 1781255604,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'ubid-main',
+    value: '135-3844178-3869401',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551605,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'rxc',
+    value: 'ANoILrmO3o4WeUvYseg',
+    domain: 'www.amazon.com',
+    path: '/',
+    expires: 1751102006,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'session-token',
+    value: '6UadO9BzmSOSSQtDavSDOPKohstybxXL+zQGLMGr7VRi3Ogc32FdpnWwg+BhAX2Vntuq6uVmg/AxAZ0enQYMZPdX6Y/9Hb/lhacAXWa3bF71CpVkryww480L8opQQG9/ssMzv9UfeCvuuVrhKaKmogah7S2tUwtHMyLWOOO9ZwG/u9Sr5a7CUaBlwWfJUIe+5rcgpbZqrHmZWzToz2qwAmLal+V18ecfeItT3ljZ2z6Dsp5XIl4xwz2Oxm/vo8TLAnYik/MyKUnBHkJCoWvKYR6M984e2hxuxtG6ElsM7fkow040pe5hTsAZXga2UkAM4o9NaaKpThB+T5WZwm4uKoYRMGUuOsF1',
+    domain: '.amazon.com',
+    path: '/',
+    expires: 1782551607,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'demdex',
+    value: '80114795295054435372265110180789401903',
+    domain: '.demdex.net',
+    path: '/',
+    expires: 1766567608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'dpm',
+    value: '80114795295054435372265110180789401903',
+    domain: '.dpm.demdex.net',
+    path: '/',
+    expires: 1766567608,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'stx_user_id',
+    value: '03d51e99-5554-4a8b-a196-9262f68cfb85',
+    domain: '.sharethrough.com',
+    path: '/',
+    expires: 1753607608,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'UID',
+    value: '1FB3c7f88144fa7f1bdcb901751015608',
+    domain: '.scorecardresearch.com',
+    path: '/',
+    expires: 1784711608,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'None'
+  },
+  {
+    name: 'anj',
+    value: "dTM7k!M4/YF7/.XF']wIg2ImUq$WE^!1yIE`Wq8cd)Kpr/t3pTC]AVWEj<+(W]K_b@e<6cV>2wJ^q6Q.9^rEH!AXTO:4=sB!?qY16[O0`",
+    domain: '.adnxs.com',
+    path: '/',
+    expires: 1758791607,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'uuid2',
+    value: '6363491841945354968',
+    domain: '.adnxs.com',
+    path: '/',
+    expires: 1758791607,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  }
+]

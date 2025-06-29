@@ -1,0 +1,17 @@
+{
+    "cName":"Synechron",
+    "totalEmp":23000,
+    "credentials":{
+                    "ename":"Srinivas",
+                    "password":"123245"
+                     
+                  },
+    "Branches":[
+         {"location":"Bangalore","area":"ecity"},
+         {"location":"pune","area":"Hinjewadi"},
+         {"location":"chennai","area":"Koyambadu"}
+        
+         ]
+
+
+}
